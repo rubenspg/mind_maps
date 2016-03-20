@@ -2,5 +2,10 @@
   "title": "Rubens",
   "formatVersion": 2,
   "id": 1,
-  "ideas": {}
+  "ideas": {
+    "1": {
+      "title": "Test2",
+      "id": 3
+    }
+  }
 }
